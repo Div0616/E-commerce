@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/E-commerce/static/css/main.0c7d51ac.css",
+    "main.js": "/E-commerce/static/js/main.6cede514.js",
+    "index.html": "/E-commerce/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.0c7d51ac.css",
+    "static/js/main.6cede514.js"
+  ]
+}
